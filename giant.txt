@@ -1,0 +1,236 @@
+[
+  {
+    "product_name": "D'Lite Cooking Oil",
+    "unit": "12 x 375 ml",
+    "price": "R159.99",
+    "page": 1
+  },
+  {
+    "product_name": "Bakers Snacktime Assorted Crackers",
+    "unit": "600 g",
+    "price": "R99.99",
+    "page": 1
+  },
+  {
+    "product_name": "Bakers Choice Assorted Biscuit Range",
+    "unit": "1 kg",
+    "price": "R148.99",
+    "page": 1
+  },
+  {
+    "product_name": "Corned Beef & Corned Tongue Combo",
+    "unit": "per kg",
+    "price": "R134.99",
+    "page": 1
+  },
+  {
+    "product_name": "Bokomo Corn Flakes",
+    "unit": "10 x 1 kg",
+    "price": "R450.00",
+    "page": 1
+  },
+  {
+    "product_name": "Bokomo Weet-Bix",
+    "unit": "24 x 450 g",
+    "price": "R579.99",
+    "page": 1
+  },
+  {
+    "product_name": "Lucky Star Shredded Tuna in Brine",
+    "unit": "6 x 170 g",
+    "price": "R108.99",
+    "page": 1
+  },
+  {
+    "product_name": "Koo Sweetcorn, Whole Kernel or Mixed Veg",
+    "unit": "410g / 415g / 420g",
+    "price": "R16.99",
+    "page": 1
+  },
+  {
+    "product_name": "Nestle Ricoffy Coffee",
+    "unit": "6 x 100 g",
+    "price": "R149.99",
+    "page": 1
+  },
+  {
+    "product_name": "Wellington's Tomato Sauce / Sweet Chilli",
+    "unit": "700 ml",
+    "price": "R27.99 / R37.99",
+    "page": 1
+  },
+  {
+    "product_name": "Oros Concentrate",
+    "unit": "5 Litre",
+    "price": "R89.99",
+    "page": 1
+  },
+  {
+    "product_name": "Energade Sports Drink",
+    "unit": "24 x 500 ml",
+    "price": "R189.99",
+    "page": 1
+  },
+  {
+    "product_name": "Score Energy Drink",
+    "unit": "24 x 500 ml",
+    "price": "R179.99",
+    "page": 1
+  },
+  {
+    "product_name": "Nestle Minis (Tex, KitKat, Bar-One, Smarties)",
+    "unit": "each",
+    "price": "R46.99",
+    "page": 2
+  },
+  {
+    "product_name": "Cadbury Chocolate Slabs",
+    "unit": "12 x 80 g",
+    "price": "R194.99",
+    "page": 2
+  },
+  {
+    "product_name": "Beacon Heavenly Selection",
+    "unit": "400 g",
+    "price": "R59.99",
+    "page": 2
+  },
+  {
+    "product_name": "Mister Sweet Speckled Eggs",
+    "unit": "24 x 50 g",
+    "price": "R319.99",
+    "page": 2
+  },
+  {
+    "product_name": "Simba Fritos",
+    "unit": "48 x 25 g",
+    "price": "R123.99",
+    "page": 3
+  },
+  {
+    "product_name": "Willards Big Korn Bites",
+    "unit": "48 x 50 g",
+    "price": "R319.99",
+    "page": 3
+  },
+  {
+    "product_name": "Doritos Chips",
+    "unit": "48 x 45 g",
+    "price": "R309.99",
+    "page": 3
+  },
+  {
+    "product_name": "Fatti's & Moni's Pasta (Screws, Spirals, etc)",
+    "unit": "20 x 500 g",
+    "price": "R299.99",
+    "page": 4
+  },
+  {
+    "product_name": "Crystal White Sugar",
+    "unit": "10 x 2 kg",
+    "price": "R399.99",
+    "page": 4
+  },
+  {
+    "product_name": "Bull Brand Corned Meat",
+    "unit": "6 x 300 g",
+    "price": "R129.99",
+    "page": 4
+  },
+  {
+    "product_name": "Kellogg's Instant Noodles",
+    "unit": "40 x 70 g",
+    "price": "R178.99",
+    "page": 4
+  },
+  {
+    "product_name": "Joko Teabags",
+    "unit": "100s",
+    "price": "R49.99",
+    "page": 4
+  },
+  {
+    "product_name": "Mona Lisa Body Lotion",
+    "unit": "400 ml",
+    "price": "R30.00",
+    "page": 5
+  },
+  {
+    "product_name": "Satiskin Shower Gel",
+    "unit": "5 x 400 ml",
+    "price": "R100.00",
+    "page": 5
+  },
+  {
+    "product_name": "Protex Hygiene Soap",
+    "unit": "12 x 150 g",
+    "price": "R139.99",
+    "page": 5
+  },
+  {
+    "product_name": "Doom Insecticide",
+    "unit": "6 x 300 ml",
+    "price": "R204.99",
+    "page": 5
+  },
+  {
+    "product_name": "Jik Bleach",
+    "unit": "6 x 750 ml",
+    "price": "R99.99",
+    "page": 5
+  },
+  {
+    "product_name": "Huggies Jumbo Pack Baby Diapers",
+    "unit": "per pack",
+    "price": "R139.99",
+    "page": 5
+  },
+  {
+    "product_name": "Chicken Pops (Hot & Spicy / Original)",
+    "unit": "1 kg",
+    "price": "R69.99",
+    "page": 6
+  },
+  {
+    "product_name": "Rainbow Chicken Viennas",
+    "unit": "500 g",
+    "price": "R59.99",
+    "page": 6
+  },
+  {
+    "product_name": "Sunshine D Margarine Bricks",
+    "unit": "30 x 500 g",
+    "price": "R599.00",
+    "page": 6
+  },
+  {
+    "product_name": "Lancewood Cheddar or Gouda",
+    "unit": "900 g",
+    "price": "R119.99",
+    "page": 6
+  },
+  {
+    "product_name": "Beef Rump, Club & T-Bone Steak Pack",
+    "unit": "per kg",
+    "price": "R149.99",
+    "page": 7
+  },
+  {
+    "product_name": "Pepsi, Mirinda, 7Up or Mountain Dew",
+    "unit": "6 x 2 Litre",
+    "price": "R87.99",
+    "page": 8
+  },
+  {
+    "product_name": "Finish Dishwashing Tablets",
+    "unit": "80s",
+    "price": "R159.99",
+    "page": 8
+  },
+  {
+    "product_name": "Dinu Rose Collection Toilet Rolls 2-Ply",
+    "unit": "18s",
+    "price": "R99.99",
+    "page": 8
+  }
+]

@@ -1,0 +1,11 @@
+.env
+.venv/*
+__pycache__/*
+*.json
+headers*.txt
+*.pdf
+temp_profile*/*
+makro*.html
+*.png
+*.log
+ee-statements/*
